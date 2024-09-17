@@ -1,4 +1,4 @@
-👩‍💻 Fanny Boussard - Software Engineer - Supply Chain expert
+👩‍💻 Fanny Boussard - Software Engineer - Supply Chain expert - speaks English, French, Spanish, German and some Italian and Bosnian
 
 
 After 8 years working in the Supply Chain I decided to broad up my perspectives and learn some coding at School 42 in Lyon.
@@ -25,10 +25,25 @@ A shell program built from scratch, inspired by bash and zsh.
 🛠 Skills and Expertise
 
     Languages: C, Javascript, React Js, MangoDB, SQL, C++, Python, Bash
-    Tools: Git, Docker, Linux
+    Tools: Docker, Linux, SQL/NoSQL, GitHub (issues management, actions, atomic commits), dotfiles
     Focus: System-level programming, algorithm optimization, shell scripting
+    Technical Skills 
+
+Soft Skills 🌞
+    Coaching, mentoring
+    Perseverance
+    Organization, pragmatism
+    Empathy, listening
+    Multiculturalism
+
+Areas of Expertise 📚
+    UI/UX
+    Project management in marketing, product, and logistics
+    International trade (group strategies for stock and sales, import/export of goods)
+    Professional experience in various sectors in B2C and B2B: cleaning and hygiene products, furniture, safety glasses, services
 
 💬 Connect with me
 
     Phone : +33 6 41 80 06 43
     Email: boussard.fanny@gmail.com
+    Linked in: https://www.linkedin.com/in/fanny-boussard-5895b788/
