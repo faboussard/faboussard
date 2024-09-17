@@ -8,7 +8,7 @@ Welcome to my GitHub! I’m Fanny Boussard, a dedicated software engineer with a
 - 🌱 I’m currently learning ... c++ :) 
 - 🤔 I’m looking for help with ... discovering new technos, new projects, new possibilities with code writing ! 
 - 💬 Ask me about ... why I love making class in C++.
-- 📫 How to reach me: +33 6 41 80 06 43 . I am a natural social-path. Reach me ! I love to talk, even about your grandma. 
+- 📫 How to reach me: see my email below ! I am a natural social-path ;) Reach me ! I love to talk, even about your grandma. 
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Did you know some vultures eat only bones ? I am a nature and animal lover, test me on it !  🦅
 
@@ -52,6 +52,5 @@ A shell program built from scratch, inspired by bash and zsh.
 
 ## 💬 Connect with me
 
-    Phone : +33 6 41 80 06 43
     Email: boussard.fanny@gmail.com
     Linked in: https://www.linkedin.com/in/fanny-boussard-5895b788/
