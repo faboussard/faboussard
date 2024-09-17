@@ -30,6 +30,3 @@ A shell program built from scratch, inspired by bash and zsh.
 
     Phone : +33 6 41 80 06 43
     Email: boussard.fanny@gmail.com
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=faboussard&show_icons=true&theme=radical)
-    
