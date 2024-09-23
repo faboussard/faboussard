@@ -14,23 +14,28 @@ After 8 years working in the Supply Chain management I decided to broad up my pe
 - ⚡ Fun fact: Did you know some vultures eat only bones ? I am a nature and animal lover, test me on it !  🦅
 
 
-## **Programming Languages**
+## **Programming Languages  **
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,swift,html,css" />
+    <img src="https://skillicons.dev/icons?i=c,c++,python,vba,html,css,javascript,typescript,React" />
   </a>
 </p>
+
+ c, c++, vba, JavaScript, React Js, MongoDB, SQL, C++, Python, Bash
 
 
 ## **Technical Skills**
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ps,ai,figma,wordpress,bash,vscode,vim,codepen,github" />
+    <img src="https://skillicons.dev/icons?i=figma,wordpress,bash,vscode,vim,codepen,github,canva" />
   </a>
 </p>
-- **Tools:** Excel, Docker, Linux, SQL/NoSQL, GitHub (issues management, actions, atomic commits), dotfiles
-- **Focus:** System-level programming, algorithm optimization, shell scripting
+
+Tools: Docker, Linux, SQL/NoSQL, GitHub (issues management, actions, atomic commits), dotfiles, canva, ...
+
+Focus: System-level programming, algorithm optimization, shell scripting, supply chain management, marketing 
 
 ## **Soft Skills 🌞**
 
@@ -61,6 +66,4 @@ A shell program built from scratch, inspired by bash and zsh.
 ## 💬 Connect with me
 
     Email: boussard.fanny@gmail.com
-<a href="https://linkedin.com/in/fanny-boussard/" target="blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
+    Linked in: https://www.linkedin.com/in/fanny-boussard-5895b788/
