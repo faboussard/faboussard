@@ -18,7 +18,7 @@ After 8 years working in the Supply Chain management I decided to broad up my pe
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,c++,python,vba,html,css,javascript,typescript,React" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,javascript,typescript,React" />
   </a>
 </p>
 
@@ -65,5 +65,8 @@ A shell program built from scratch, inspired by bash and zsh.
 
 ## 💬 Connect with me
 
+<a href="https://www.linkedin.com/in/fanny-boussard-5895b788/" target="blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+
     Email: boussard.fanny@gmail.com
-    Linked in: https://www.linkedin.com/in/fanny-boussard-5895b788/
