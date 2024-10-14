@@ -9,7 +9,6 @@ After 8 years working in the Supply Chain management I decided to broad up my pe
 - 🌱 I’m currently learning ... c++ and javascript
 - 🤔 I’m looking for help with ... discovering new technos, new projects, new possibilities with code writing ! 
 - 💬 Ask me about ... how parsing is so satisfying.
-- 📫 How to reach me: see my email below ! I am a natural social-path ;) Reach me ! I love to talk, even about your grandma. 
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Did you know some vultures eat only bones ? I am a nature and animal lover, test me on it !  🦅
 
