@@ -1,4 +1,4 @@
-👩‍💻 Fanny Boussard - Software Engineer - Supply Chain expert - speaks English, French, Spanish, German and some Italian and Bosnian
+👩‍💻 Fanny Boussard - Software Developer - Supply Chain expert - speaks English, French, Spanish, German and some Italian and Bosnian
 
 
 Welcome to my GitHub! I’m Fanny Boussard, a dedicated software engineer with a focus on C++ and system development.
