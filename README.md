@@ -13,7 +13,7 @@ After 8 years working in the Supply Chain management I decided to broad up my pe
 - ⚡ Fun fact: Did you know some vultures eat only bones ? I am a nature and animal lover, test me on it !  🦅
 
 
-## **Programming Languages  **
+## Programming Languages
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -56,11 +56,9 @@ Focus: System-level programming, algorithm optimization, shell scripting, supply
 
 ##  Minishell
 A shell program built from scratch, inspired by bash and zsh.
-
     Technologies: C, POSIX-compliant system calls
     Features: Command parsing, redirection, pipes, and job control.
     Challenges: Implementing error handling, signal management, and memory optimization.
-
 
 ## 💬 Connect with me
 
@@ -68,4 +66,4 @@ A shell program built from scratch, inspired by bash and zsh.
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 
-    Email: boussard.fanny@gmail.com
+   boussard.fanny@gmail.com
