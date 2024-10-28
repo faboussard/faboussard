@@ -5,11 +5,9 @@
 **Multilingual Speaker (English, French, Spanish, German)**   
 **Fast learner and strongly adaptable**  
 ---
-
+ ✨ *Inspired by the creative idea of [Yuko](https://github.com/ysengoku)* ✨
 ```dockerfile
 # Dockerfile for Fanny's GitHub Homepage 🐳
-
-# ✨ *Inspired by the creative idea of [Yuko](https://github.com/ysengoku)* ✨
 
 FROM developer_base:latest
 
