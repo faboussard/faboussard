@@ -1,9 +1,14 @@
-👩‍💻 Fanny Boussard - Software Developer - Supply Chain expert - speaks English, French, Spanish, German and some Italian and Bosnian
+👩‍💻 Fanny Boussard   
 
+Software Developer   
+Supply Chain expert   
+Good social skills   
+English, French, Spanish, German speaker
 
-Welcome to my GitHub! I’m Fanny Boussard, a dedicated software engineer with a focus on C++ and system development.
+After 8 years working in the Supply Chain management I decided to broad up my perspectives and learn how to code and develop softwares at School 42 in Lyon.
 
-After 8 years working in the Supply Chain management I decided to broad up my perspectives and learn how to code and develop apps at School 42 in Lyon.
+My 42 badge:    
+[![faboussa's 42 stats](https://badge.mediaplus.ma/starryblue/faboussa?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 - 🔭 I’m currently working on ... creating a webserver in c++
 - 🌱 I’m currently learning ... c++ and javascript
