@@ -9,6 +9,8 @@
 ```dockerfile
 # Dockerfile for Fanny's GitHub Homepage 🐳
 
+# ✨ *Inspired by the creative idea of [Yuko](https://github.com/ysengoku)* ✨
+
 FROM developer_base:latest
 
 # Metadata
