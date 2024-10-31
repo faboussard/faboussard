@@ -12,8 +12,8 @@
 FROM developer_base:latest
 
 # Metadata
-LABEL maintainer="Fanny Boussard 👩‍💻"
-LABEL description="Software Developer, Supply Chain Expert, and Multilingual Extraordinaire!"
+LABEL maintainer="Fanny Boussard"
+LABEL description="Software Developer, Supply Chain Expert, and a happy person!"
 
 # Install essential skills
 RUN apt-get update && \
@@ -32,7 +32,7 @@ CMD ["echo", "👩‍💻 Welcome! You’ve successfully accessed my GitHub page
 ENTRYPOINT ["echo", "Attempting SSH connection to Fanny's projects... 🔑 ssh fanny@github.com"]
 
 # Deployment message
-RUN echo "🏗️ Deploying Fanny Boussard - 100% compatible with C++98, Docker, IRC servers, and life-long learning!"
+RUN echo "🏗️ Deploying Fanny Boussard - 100% compatible with C++, Docker, IRC servers, and life-long learning!"
 
 # Clean up and finalize
 RUN apt-get clean && echo "Deployment complete! Welcome to my GitHub 🎉🚀"
