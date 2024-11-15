@@ -2,7 +2,7 @@
 
 **Software Developer**  
 **Supply Chain Expert**  
-**Multilingual Speaker (English, French, Spanish, German)**   
+**Multilingual Speaker**   
 **Fast learner and strongly adaptable**  
 ---
  ✨ *Inspired by the creative idea of [Yuko](https://github.com/ysengoku)* ✨
