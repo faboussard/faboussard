@@ -1,8 +1,8 @@
 # 👩‍💻 Fanny Boussard
 
-**Software Developer**  
+**Developer**  
 **Supply Chain Expert**  
-**Multilingual Speaker**   
+**International Project Manager**
 **Fast learner and strongly adaptable**  
 ---
  ✨ *Inspired by the creative idea of [Yuko](https://github.com/ysengoku)* ✨
