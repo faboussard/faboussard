@@ -51,6 +51,6 @@ A shell program built from scratch, inspired by bash and zsh.
 <a href="https://www.linkedin.com/in/fanny-boussard-5895b788/" target="blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>   
-boussard.fanny@gmail.com   
 
-[![Faboussa's 42 stats](https://badge.mediaplus.ma/binary/Faboussa?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+
+boussard.fanny@gmail.com   
